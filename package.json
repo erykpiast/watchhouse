@@ -1,0 +1,20 @@
+{
+  "name": "watchhouse",
+  "version": "0.0.0",
+  "description": "Tool for continuous performance monitoring based on Google Lighthouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erykpiast/watchhouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erykpiast/watchhouse/issues"
+  },
+  "homepage": "https://github.com/erykpiast/watchhouse#readme"
+}
